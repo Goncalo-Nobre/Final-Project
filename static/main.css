@@ -1,0 +1,20 @@
+body {
+  background-color: #2A4858;
+}
+img {
+  width:100%;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 10%;
+}
+.form {
+  margin: left;
+}
+div {
+  padding: 5%;
+}
+button.btn.btn-secondary {
+margin-top: 2%;
+margin: left;
+}
